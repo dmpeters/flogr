@@ -1,0 +1,14 @@
+*.swp
+*.log
+*.pot
+*.pyc
+local_config.py
+
+public/css/*.css
+.project
+.pydevproject
+.sass-cache/
+.DS_Store
+.vagrant
+
+sqlite.db
